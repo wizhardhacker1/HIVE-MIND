@@ -1,28 +1,4 @@
 # Knowledge-Retention-AI
-Enterprise Knowledge Management System
-
-
-
-Automatic OS detection (RHEL, Fedora)
-
-<img width="1700" height="824" alt="Screenshot_20250822_145600-1" src="https://github.com/user-attachments/assets/f55632ef-cbff-4af3-a129-6d1eb6d41367" />
-
-🔒 Security First
-Local-only processing (no external APIs)
-
-Custom encryption keys
-
-SQLite database with encryption
-
-Proper file permissions (600 for .env, 750 for data)
-
-Input validation and sanitization
-
-Prompts user to generate, provide, or use default encryption key
-
-Secure 64-character key generation using OpenSSL
-
-<img width="423" height="191" alt="Screenshot_20250822_145637" src="https://github.com/user-attachments/assets/6828fb55-a5fd-4e52-b75a-594563d86226" />
 
 
 
