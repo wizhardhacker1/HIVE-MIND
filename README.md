@@ -1,3 +1,7 @@
+
+<img width="1601" height="947" alt="image" src="https://github.com/user-attachments/assets/ba025c6d-3b20-4020-a51f-5555e1eb045c" />
+
+
 HIVE MIND 2.0.4 FULL WINDOWS INSTALLER
 
 1. Extract this ZIP.
