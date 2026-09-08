@@ -1,5 +1,5 @@
 
-<img width="1601" height="947" alt="image" src="https://github.com/user-attachments/assets/ba025c6d-3b20-4020-a51f-5555e1eb045c" />
+<img width="1917" height="739" alt="image" src="https://github.com/user-attachments/assets/3aed047b-3c3c-4937-9ce6-9b981cd9664e" />
 
 
 HIVE MIND 2.0.4 FULL WINDOWS INSTALLER
