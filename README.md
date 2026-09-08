@@ -30,7 +30,6 @@ HIVE MIND combines encrypted document storage, intelligent ingestion, vault-spec
 
 ## 🖥️ HIVE MIND Interface
 
-<img width="1442" height="824" alt="HIVE MIND Application Interface" src="https://github.com/user-attachments/assets/4222517b-3ce8-4c7b-9854-54fd77cd5b56" />
 
 The HIVE MIND interface provides centralized access to:
 
