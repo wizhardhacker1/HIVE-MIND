@@ -148,10 +148,5 @@ Local data control requirements
 Knowledge Retention AI transforms the challenge of employee departures into an opportunity to build stronger, smarter, more resilient organizations.RetryClaude can make mistakes. Please double-check responses.
 
 
-# Make executable and run
-chmod +x install.sh
-./install.sh
-
-# After installation:
-cd knowledge-retention-app
-./scripts/start.sh
+unzip
+run INSTALL_HIVE_MIND.bat
