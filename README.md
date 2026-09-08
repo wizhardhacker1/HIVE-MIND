@@ -1,4 +1,4 @@
-# 🐝 HIVE MIND
+HIVE MIND
 
 ### Private. Local. Encrypted. Yours.
 
