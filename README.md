@@ -1,4 +1,6 @@
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/46be5028-f919-43e1-a2b9-f06b05f3c939" />
+
+
 HIVE MIND
 
 ### Private. Local. Encrypted. Yours.
