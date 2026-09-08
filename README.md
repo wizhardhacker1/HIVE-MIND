@@ -525,3 +525,6 @@ FILES → INGEST → ENCRYPT → INDEX → CHAT → KNOWLEDGE
 **HIVE MIND 2.0.4**
 
 **Private. Local. Encrypted. Yours.**
+
+<img width="1442" height="824" alt="image" src="https://github.com/user-attachments/assets/4222517b-3ce8-4c7b-9854-54fd77cd5b56" />
+
