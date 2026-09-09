@@ -1,3 +1,5 @@
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d1333dc6-9464-4897-9c1b-46d23cd50450" /> Buy me a Coffee- buymeacoffee.com/wizhardhacker1
+
 <p align="center">
   <img width="256" height="256" alt="HIVE MIND Logo" src="https://github.com/user-attachments/assets/46be5028-f919-43e1-a2b9-f06b05f3c939" />
 </p>
